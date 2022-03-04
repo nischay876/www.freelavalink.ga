@@ -6,7 +6,7 @@
 
 # •   CONNECT CODE SSL
 ```javascript
- Lavalink: { 
+    {
       host: "connect.freelavalink.ga",
       port: 443,
       pass: "www.freelavalink.ga",
