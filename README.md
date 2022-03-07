@@ -31,7 +31,7 @@ connect.freelavalink.ga or lavalink.oops.wtf
 ```
 www.freelavalink.ga
 ```
-# •   Support
+# •   SUPPORT
 [![DiscordBanner](https://invidget.switchblade.xyz/aYBB9eXe2g)](https://discord.gg/aYBB9eXe2g)
 
 [![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=813561253175361558)](https://www.oggy.ga)
