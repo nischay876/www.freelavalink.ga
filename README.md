@@ -4,19 +4,28 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnischay876%2Fwww.freelavalink.ga&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo+views&edge_flat=true)
 ![Status](https://img.shields.io/uptimerobot/status/m790568780-4b499cce7d2b8318146700a8?label=Server)
 
-# •   CONNECT CODE SSL
+# •   CONNECT SSL
 ```javascript
     {
-      host: "connect.freelavalink.ga",
+      host: "connect.freelavalink.ga / lavalink.oops.wtf",
       port: 443,
       pass: "www.freelavalink.ga",
       secure: true,
     },
 ```
+# •   CONNECT NON-SSL
+```javascript
+    {
+      host: "connect.freelavalink.ga / lavalink.oops.wtf",
+      port: 2000,
+      pass: "www.freelavalink.ga",
+      secure: false,
+    },
+```
 
 ## •   HOST
 ```
-connect.freelavalink.ga
+connect.freelavalink.ga or lavalink.oops.wtf
 ```
 ## •   PASSWORD
 ```
