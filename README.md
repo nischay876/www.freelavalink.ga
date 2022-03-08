@@ -32,8 +32,10 @@ connect.freelavalink.ga or lavalink.oops.wtf
 www.freelavalink.ga
 ```
 # •   SUPPORT
+<a class="button umami--click--PP" href="https://paypal.me/nischay02/"><img src="https://raw.githubusercontent.com/everdrone/coolbadge/master/badges/Paypal/Coffee/White/Small.png" width="350" height="auto"></a>
+
 [![DiscordBanner](https://invidget.switchblade.xyz/aYBB9eXe2g)](https://discord.gg/aYBB9eXe2g)
 
 [![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=813561253175361558)](https://www.oggy.ga)
 
-<p align="center"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg">  <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg"></a></p><p align="center">
+<p align="center"><img src="https://ForTheBadge.com/images/badges/built-with-love.svg">  <img src="https://ForTheBadge.com/images/badges/built-with-swag.svg"></a></p><p align="center">
