@@ -32,7 +32,7 @@ connect.freelavalink.ga or lavalink.oops.wtf
 www.freelavalink.ga
 ```
 # •   SUPPORT
-<a class="button umami--click--PP" href="https://paypal.me/nischay02/"><img src="https://raw.githubusercontent.com/everdrone/coolbadge/master/badges/Paypal/Coffee/White/Small.png" width="350" height="auto"></a>
+<a class="button umami--click--PP" href="https://nischaydev.tebex.io/package/5063868"><img src="https://i.imgur.com/cGc8A5J.png" width="350" height="auto"></a>
 
 [![DiscordBanner](https://invidget.switchblade.xyz/aYBB9eXe2g)](https://discord.gg/aYBB9eXe2g)
 
