@@ -6,7 +6,7 @@
 
 #  HOW TO CONNECT
 
-## [SSL](./ssl)    •    [NON-SSL](./non-ssl)
+## [![SSL](https://dabuttonfactory.com/button.png?t=SSL&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./ssl)   •    [![NON-SSL]([https://discord-readme-badge.vercel.app/api?id=813561253175361558](https://dabuttonfactory.com/button.png?t=NON-SSL&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763))](./non-ssl)
 
 ## •   HOST
 ```
