@@ -16,6 +16,6 @@
 
 # DONATE
 
-<a class="button umami--click--PP" href="https://nischaydev.tebex.io/package/5063868"><img src="https://i.imgur.com/ua5gOmw.png" width="350" height="auto"></a>
+<a class="button umami--click--PP" href="https://paypal.me/seikosandeep"><img src="https://i.imgur.com/ua5gOmw.png" width="350" height="auto"></a>
 
 <p align="center"><img src="https://ForTheBadge.com/images/badges/built-with-love.svg">  <img src="https://ForTheBadge.com/images/badges/built-with-swag.svg"></a></p><p align="center">
