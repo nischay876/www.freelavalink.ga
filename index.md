@@ -8,14 +8,6 @@
 
 ## [![SSL](https://dabuttonfactory.com/button.png?t=SSL&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./ssl)   •    [![NON-SSL](https://dabuttonfactory.com/button.png?t=NON-SSL&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./non-ssl)
 
-## •   HOST
-```
-connect.freelavalink.ga or lavalink.oops.wtf
-```
-## •   PASSWORD
-```
-www.freelavalink.ga
-```
 # •   SUPPORT
 <a class="button umami--click--PP" href="https://nischaydev.tebex.io/package/5063868"><img src="https://i.imgur.com/cGc8A5J.png" width="350" height="auto"></a>
 
