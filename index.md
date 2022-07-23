@@ -4,7 +4,6 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnischay876%2Fwww.freelavalink.ga&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo+views&edge_flat=true)
 ![Status](https://img.shields.io/uptimerobot/status/m790568780-4b499cce7d2b8318146700a8?label=Server)
 
-#  HOW TO CONNECT
 # [![HOW TO CONNECT](https://dabuttonfactory.com/button.png?t=HOW+TO+CONNECT&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./non-ssl)
 
 ## [![SSL](https://dabuttonfactory.com/button.png?t=SSL&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./ssl)   •    [![NON-SSL](https://dabuttonfactory.com/button.png?t=NON-SSL&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./non-ssl)
