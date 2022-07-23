@@ -10,7 +10,7 @@
 
 [![DiscordBanner](https://invidget.switchblade.xyz/S3jkGvstbx)](https://discord.gg/S3jkGvstbx)
 
-[![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=813561253175361558)](https://www.oggy.ga)
+[![DiscordBanner](https://discord-readme-badge.vercel.app/api?id=813561253175361558)](https://links.nischay.ovh)
 
 # DONATE
 <a class="button umami--click--PP" href="https://nischaydev.tebex.io/package/5063868"><img src="https://i.imgur.com/Fa0ss9i.png" width="350" height="auto"></a>
