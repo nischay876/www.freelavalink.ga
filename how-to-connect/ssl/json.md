@@ -8,7 +8,7 @@
       secure: true,
     },
 ```
-# OR
+### OR
 ```javascript
     {
       host: "lavalink.oops.wtf",
