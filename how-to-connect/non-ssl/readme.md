@@ -1,23 +1,8 @@
-# CONNECT WITH SSL
+# HOW TO CONNECT WITH NON-SSL
 
-### HOST
-```bash
-connect.freelavalink.ga  /  lavalink.oops.wtf
-```
-
-### PASSWORD
-```bash
-www.freelavalink.ga
-```
-
-### PORT
-```bash
-443
-```
-### SECURE
-```bash
-true
-```
+## [![TEXT](https://dabuttonfactory.com/button.png?t=TEXT&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./text.md)   
+## [![JSON](https://dabuttonfactory.com/button.png?t=JSON&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./json.md)        
+## [![ENV](https://dabuttonfactory.com/button.png?t=ENV&f=Open+Sans-Bold&ts=20&tc=fff&hp=45&vp=20&c=20&bgt=gradient&bgc=3b7dbf&ebgc=073763)](./env.md)
 
 # SUPPORT
 

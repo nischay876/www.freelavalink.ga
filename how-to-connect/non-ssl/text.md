@@ -1,4 +1,4 @@
-# CONNECT WITH SSL
+# CONNECT WITH NON-SSL
 
 ### HOST
 ```bash
@@ -12,8 +12,9 @@ www.freelavalink.ga
 
 ### PORT
 ```bash
-443
+2000
 ```
+
 ### SECURE
 ```bash
 true

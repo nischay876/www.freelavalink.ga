@@ -1,23 +1,18 @@
-# CONNECT WITH SSL
-
-### HOST
-```bash
-connect.freelavalink.ga  /  lavalink.oops.wtf
+# CONNECT WITH NON-SSL
+```env
+LAVALINK_HOST=lavalink.oops.wtf
+LAVALINK_PASSWORD=www.freelavalink.ga
+LAVALINK_PORT=2000
+LAVALINK_SECURE=false
 ```
-
-### PASSWORD
-```bash
-www.freelavalink.ga
+### OR
+```env
+LAVALINK_HOST=connect.freelavalink.ga
+LAVALINK_PASSWORD=www.freelavalink.ga
+LAVALINK_PORT=2000
+LAVALINK_SECURE=false
 ```
-
-### PORT
-```bash
-443
-```
-### SECURE
-```bash
-true
-```
+Edit it accourding to your use
 
 # SUPPORT
 

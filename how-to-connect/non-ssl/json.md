@@ -1,23 +1,23 @@
-# CONNECT WITH SSL
+# CONNECT WITH NON-SSL
 
-### HOST
-```bash
-connect.freelavalink.ga  /  lavalink.oops.wtf
+```javascript
+    {
+      host: "connect.freelavalink.ga",
+      port: 2000,
+      pass: "www.freelavalink.ga",
+      secure: false,
+    },
+```
+### OR
+```javascript
+    {
+      host: "lavalink.oops.wtf",
+      port: 2000,
+      pass: "www.freelavalink.ga",
+      secure: false,
+    },
 ```
 
-### PASSWORD
-```bash
-www.freelavalink.ga
-```
-
-### PORT
-```bash
-443
-```
-### SECURE
-```bash
-true
-```
 
 # SUPPORT
 
