@@ -18,5 +18,3 @@
 <a class="button umami--click--PP" href="https://github.com/sponsors/nischay876"><img src="https://raw.githubusercontent.com/mechPenSketch/mechPenSketch/master/img/github_sponsor_btn.svg" width="350" height="auto"></a>
 
 <a class="button umami--click--PP" href="https://paypal.me/seikosandeep"><img src="https://i.imgur.com/ua5gOmw.png" width="350" height="auto"></a>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=sponsor&size=large" frameborder="0" scrolling="0" width="180" height="30" title="GitHub"></iframe>
