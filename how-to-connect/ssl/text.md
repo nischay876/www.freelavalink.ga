@@ -2,7 +2,7 @@
 
 ### HOST
 ```bash
-connect.freelavalink.ga  /  lavalink.oops.wtf
+lavalink.oops.wtf
 ```
 
 ### PASSWORD
