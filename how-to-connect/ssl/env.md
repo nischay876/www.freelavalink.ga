@@ -5,13 +5,6 @@ LAVALINK_PASSWORD=www.freelavalink.ga
 LAVALINK_PORT=443
 LAVALINK_SECURE=true
 ```
-### OR
-```env
-LAVALINK_HOST=connect.freelavalink.ga
-LAVALINK_PASSWORD=www.freelavalink.ga
-LAVALINK_PORT=443
-LAVALINK_SECURE=true
-```
 Edit it accourding to your use
 
 # SUPPORT
