@@ -22,7 +22,7 @@ fi
 while true; do
 RESET="\e[0m"
 GREEN="\e[32m"
-read -p "$(echo -e $GREEN"\n* Do you want to proceed? (Y/N),(y/n)"$RESET)" yn
+read -p "$(echo -e $GREEN"\n* Do you want to proceed? (Y/N) | (y/n)"$RESET)" yn
 case $yn in
 	[yY] ) echo -e "\e[32m* ok, we will proceed\e[0m";
 		break;;
@@ -51,7 +51,7 @@ if ! [ -x "$(command -v node)" ]; then
         in=$NodeJsVe
     fi
     echo -e "\e[32m* You selected NodeJS version $in \e[0m"
-    echo -e "\e[32m* Installing NodeJS with (curl -sL https://deb.nodesource.com/setup_$in.x | sudo -E bash - && sudo apt install -y nodejs)\e[0m"
+    echo -e "\e[32m* Installing NodeJS with (sudo apt install -y nodejs)\e[0m"
     curl -sL https://deb.nodesource.com/setup_$in.x | sudo -E bash - > /dev/null 2>&1 && sudo apt install -y nodejs > /dev/null 2>&1
 fi
 
@@ -81,7 +81,6 @@ if ! [ -x "$(command -v pm2)" ]; then
     echo -e "\e[32m* pm2 is required in order for this script to work.\e[0m"
     echo -e "\e[32m* Installing pm2 with (sudo npm install pm2 -g)\e[0m"
     sudo npm install pm2 -g > /dev/null 2>&1
-    pm2 ls /dev/null 2>&1
 fi
 
 # Installing lavalink
@@ -95,11 +94,6 @@ wget https://gist.githubusercontent.com/nischay876/88c080f8eeb07d37daed1aa231417
 echo -e "\e[32m* Downloading config.json\e[0m"
 wget https://gist.githubusercontent.com/nischay876/88c080f8eeb07d37daed1aa2314170c0/raw/config.json > /dev/null 2>&1
 echo -e "\e[32m* Lavalink installation completed\e[0m"
-echo -e "\e[32m* Now running Lavalink | Use (pm2 ls) to view lavalink status\e[0m"
-pm2 start ~/freelavalink/config.json /dev/null 2>&1
-mypubip=$(curl ipaddress.sh)
-echo -e "\e[32m* Lavalink Started at http://$mypubip:2333 | http://127.0.0.1:2333\e[0m"
-echo -e "\e[32m* (lavalink) is Lavalink's Password\e[0m"
 echo -e "\e[32m* Thank You For Using This Script To Install Lavalink\e[0m"
 echo -e "\e[32m
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -108,4 +102,22 @@ echo -e "\e[32m
 #        Copyright (C) 2022 - 2022, nischay876.         #
 #     https://github.com/nischay876/lavalink-install    #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # #\e[0m"
+
+# run lavalink rn ?
+while true; do
+RESET="\e[0m"
+GREEN="\e[32m"
+read -p "$(echo -e $GREEN"\n* Do you want to run lavalink right now? (Y/N) | (y/n)"$RESET)" yn
+case $yn in
+	[yY] ) echo -e "\e[32m* ok, running Lavalink | Use (pm2 ls) to view lavalink status\e[0m"
+           echo -e "\e[32m* (lavalink) is Lavalink's Password\e[0m"
+           mypubip=$(curl ipaddress.sh)
+           echo -e "\e[32m* Lavalink Started at http://$mypubip:2333 | http://127.0.0.1:2333\e[0m"
+		break;;
+	[nN] ) echo -e "\e[32m* exiting...\e[0m";
+		exit 1;;
+	* ) echo -e "\e[32m* invalid response\e[0m";;
+esac
+done
+pm2 start ~/freelavalink/config.json
 exit 1
