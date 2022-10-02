@@ -9,7 +9,7 @@ echo -e "\e[32m
 #              Protected by MIT License                 #
 #        Copyright (C) 2022 - 2022, nischay876.         #
 #     https://github.com/nischay876/lavalink-install    #
-#           This Script only works on Ubuntu            #
+#       This Script only works on Ubuntu & Debian       #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # #\e[0m"
 
 # Check Sudo #
