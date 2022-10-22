@@ -111,7 +111,7 @@ read -p "$(echo -e $GREEN"\n* Do you want to run lavalink right now? (Y/N) | (y/
 case $yn in
 	[yY] ) echo -e "\e[32m* ok, running Lavalink | Use (pm2 ls) to view lavalink status\e[0m"
            echo -e "\e[32m* (lavalink) is Lavalink's Password\e[0m"
-           mypubip=$(curl ipaddress.sh)
+           mypubip=$(curl -s ipaddress.sh)
            echo -e "\e[32m* Lavalink Started at http://$mypubip:2333 | http://127.0.0.1:2333\e[0m"
 		break;;
 	[nN] ) echo -e "\e[32m* exiting...\e[0m";
