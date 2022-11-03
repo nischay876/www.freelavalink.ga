@@ -32,13 +32,13 @@ case $yn in
 esac
 done
 echo -e "\e[32m* doing stuff...\e[0m"
-sudo apt update > /dev/null 2>&1
+sudo apt-get update > /dev/null 2>&1
 
 # Check Curl #
 if ! [ -x "$(command -v curl)" ]; then
     echo -e "\e[32m* curl is required in order for this script to work.\e[0m"
-    echo -e "\e[32m* Installing curl with (sudo apt install -y curl)\e[0m"
-    sudo apt install -y curl > /dev/null 2>&1
+    echo -e "\e[32m* Installing curl with (sudo apt-get install -y curl)\e[0m"
+    sudo apt-get install -y curl > /dev/null 2>&1
 fi
 
 # Check NodeJS #
@@ -51,29 +51,29 @@ if ! [ -x "$(command -v node)" ]; then
         in=$NodeJsVe
     fi
     echo -e "\e[32m* You selected NodeJS version $in \e[0m"
-    echo -e "\e[32m* Installing NodeJS with (sudo apt install -y nodejs)\e[0m"
-    curl -sL https://deb.nodesource.com/setup_$in.x | sudo -E bash - > /dev/null 2>&1 && sudo apt install -y nodejs > /dev/null 2>&1
+    echo -e "\e[32m* Installing NodeJS with (sudo apt-get install -y nodejs)\e[0m"
+    curl -sL https://deb.nodesource.com/setup_$in.x | sudo -E bash - > /dev/null 2>&1 && sudo apt-get install -y nodejs > /dev/null 2>&1
 fi
 
 # Check NPM #
 if ! [ -x "$(command -v npm)" ]; then
     echo -e "\e[32m* npm is required in order for this script to work.\e[0m"
-    echo -e "\e[32m* Installing npm with (sudo apt install -y npm)\e[0m"
-    sudo apt install -y npm > /dev/null 2>&1
+    echo -e "\e[32m* Installing npm with (sudo apt-get install -y npm)\e[0m"
+    sudo apt-get install -y npm > /dev/null 2>&1
 fi
 
 # Check Wget #
 if ! [ -x "$(command -v wget)" ]; then
     echo -e "\e[32m* npm is required in order for this script to work.\e[0m"
-    echo -e "\e[32m* Installing wget with (sudo apt install -y wget)\e[0m"
-    sudo apt install -y wget > /dev/null 2>&1
+    echo -e "\e[32m* Installing wget with (sudo apt-get install -y wget)\e[0m"
+    sudo apt-get install -y wget > /dev/null 2>&1
 fi
 
 # Check Java #
 if ! [ -x "$(command -v javac)" ]; then
     echo -e "\e[32m* java is required in order for this script to work.\e[0m"
-    echo -e "\e[32m* Installing java with (sudo apt install -y default-jdk)\e[0m"
-    sudo apt install -y default-jdk > /dev/null 2>&1
+    echo -e "\e[32m* Installing java with (sudo apt-get install -y default-jdk)\e[0m"
+    sudo apt-get install -y default-jdk > /dev/null 2>&1
 fi
 
 # Check Pm2 #
