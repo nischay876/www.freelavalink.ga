@@ -6,4 +6,10 @@
       pass: "www.freelavalink.ga",
       secure: false,
     },
+    {
+      Host: 149.129.215.50,
+      Port: 2333,
+      Pass: "alfarimusic",
+      Secure: false,
+    },
 ```
